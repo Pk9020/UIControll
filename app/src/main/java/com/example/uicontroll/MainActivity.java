@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private ToggleButton toggleButton;
     private CheckBox ch1,ch2;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
