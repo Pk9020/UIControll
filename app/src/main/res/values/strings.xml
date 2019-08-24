@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UIControll</string>
+    <string name="ui_controll">UI Controll</string>
+    <string name="enter_the_name">enter the name</string>
+    <string name="on">on</string>
+    <string name="enter_the_age">enter the age</string>
+    <string name="english">english</string>
+    <string name="hindi">hindi</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="progress_dialog">Progress Dialog</string>
+</resources>
